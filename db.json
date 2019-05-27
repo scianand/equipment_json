@@ -1,0 +1,12 @@
+[{"name": "pump",
+"equip_id": 123,
+"status": "general compliant",
+"pocs": "poc.com",
+"accountable": "William",
+"total_pocs": 600 },
+{"name": "valve",
+"equip_id": 150,
+"status": "partial compliant",
+"pocs": "poc.com",
+"accountable": "Ashish",
+"total_pocs": 300 }]
